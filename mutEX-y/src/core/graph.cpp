@@ -1,7 +1,7 @@
 /*============================================================================*/
 /*                                                                            */
 /*                                                                            */
-/*                              mutEX 0-002_void                              */
+/*                              mutEX 0-003_void                              */
 /*                                                                            */
 /*                      (C) Copyright 2020 Pavel Surynek                      */
 /*                                                                            */
@@ -9,7 +9,7 @@
 /*       http://users.fit.cvut.cz/surynek | <pavel.surynek@fit.cvut.cz>       */
 /*                                                                            */
 /*============================================================================*/
-/* graph.cpp / 0-002_void                                                     */
+/* graph.cpp / 0-003_void                                                     */
 /*----------------------------------------------------------------------------*/
 //
 // Graph related data structures and algorithms.
@@ -29,7 +29,7 @@
 #include "common/types.h"
 #include "core/graph.h"
 
-using namespace boOX;
+using namespace mutEX;
 
 
 /*----------------------------------------------------------------------------*/

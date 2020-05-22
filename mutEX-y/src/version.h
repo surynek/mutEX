@@ -1,7 +1,7 @@
 /*============================================================================*/
 /*                                                                            */
 /*                                                                            */
-/*                              mutEX 0-002_void                              */
+/*                              mutEX 0-003_void                              */
 /*                                                                            */
 /*                      (C) Copyright 2020 Pavel Surynek                      */
 /*                                                                            */
@@ -9,7 +9,7 @@
 /*       http://users.fit.cvut.cz/surynek | <pavel.surynek@fit.cvut.cz>       */
 /*                                                                            */
 /*============================================================================*/
-/* version.h / 0-002_void                                                     */
+/* version.h / 0-003_void                                                     */
 /*----------------------------------------------------------------------------*/
 //
 // Version file for mutEX
@@ -27,8 +27,8 @@ using namespace mutEX;
 namespace mutEX
 {
 
-#define sVERSION "0-002_void"
-#define sPRODUCT "mutEX 0-002_void"
+#define sVERSION "0-003_void"
+#define sPRODUCT "mutEX 0-003_void"
 #define sAUTHOR "Pavel Surynek"
 #define sAUTHOR_LONG "Pavel Surynek <pavel@surynek.net>"
 #define sCOPYRIGHT "(C) Copyright 2020 Pavel Surynek"

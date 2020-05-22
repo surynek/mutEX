@@ -1,7 +1,7 @@
 /*============================================================================*/
 /*                                                                            */
 /*                                                                            */
-/*                              mutEX 0-002_void                              */
+/*                              mutEX 0-003_void                              */
 /*                                                                            */
 /*                      (C) Copyright 2020 Pavel Surynek                      */
 /*                                                                            */
@@ -9,7 +9,7 @@
 /*       http://users.fit.cvut.cz/surynek | <pavel.surynek@fit.cvut.cz>       */
 /*                                                                            */
 /*============================================================================*/
-/* statistics.h / 0-002_void                                                  */
+/* statistics.h / 0-003_void                                                  */
 /*----------------------------------------------------------------------------*/
 //
 // Statistical data collection and analytical tools.
