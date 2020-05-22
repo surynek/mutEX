@@ -1,7 +1,7 @@
 /*============================================================================*/
 /*                                                                            */
 /*                                                                            */
-/*                              mutEX 0-003_void                              */
+/*                              mutEX 0-004_void                              */
 /*                                                                            */
 /*                      (C) Copyright 2020 Pavel Surynek                      */
 /*                                                                            */
@@ -9,7 +9,7 @@
 /*       http://users.fit.cvut.cz/surynek | <pavel.surynek@fit.cvut.cz>       */
 /*                                                                            */
 /*============================================================================*/
-/* compile.h / 0-003_void                                                     */
+/* compile.h / 0-004_void                                                     */
 /*----------------------------------------------------------------------------*/
 //
 // Compilation configuration file for mutEX package - debugging variant.

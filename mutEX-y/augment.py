@@ -1,8 +1,8 @@
 # Augment - C++ Source Code Augmenter
 # Version: 2.2
-# (C) Copyright 2010-2019 Pavel Surynek
-# http://www.surynek.com
-# pavel@surynek.com
+# (C) Copyright 2010-2020 Pavel Surynek
+# http://www.surynek.net
+# pavel@surynek.net
 
 import fileinput
 import string
