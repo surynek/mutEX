@@ -7,8 +7,8 @@ types.cpp
 Core_mutEX
 library
 /src/core
-/src/version.h /src/defs.h /src/config.h /src/compile.h /src/result.h mutex.h
-mutex.cpp
+/src/version.h /src/defs.h /src/config.h /src/compile.h /src/result.h mutex.h graph.h cnf.h
+mutex.cpp graph.cpp cnf.cpp
 
 Util_mutEX
 library
@@ -28,5 +28,5 @@ application
 /src/test
 /src/version.h /src/defs.h /src/config.h /src/compile.h /src/result.h basic_test.h
 basic_test.cpp
-pthread z3
-/src/common/Common_mutEX /src/core/Core_mutEX /src/util/Util_mutEX /src/glucose/Glucose_mutEX
+pthread
+/src/util/Util_mutEX /src/core/Core_mutEX /src/glucose/Glucose_mutEX /src/common/Common_mutEX

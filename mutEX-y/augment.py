@@ -449,7 +449,7 @@ def twin_augment_directory(indent, directory, width, height, version, step, prod
 
 def print_intro():
   print "Augment 2.2 - C++/PHP Source Code Augmenter"
-  print "(C) Copyright 2010-2019 Pavel Surynek"
+  print "(C) Copyright 2010-2020 Pavel Surynek"
   print "---------------------------------------------"
 
 

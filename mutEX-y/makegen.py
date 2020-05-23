@@ -16,7 +16,7 @@ class ModuleRecord:
 
 def print_intro():
   print "Makegen 2.0 - Makefile Generator"
-  print "(C) Copyright 2010 - 2018 Pavel Surynek"
+  print "(C) Copyright 2010 - 2020 Pavel Surynek"
   print "---------------------------------------"
 
 include_dirs = set()
